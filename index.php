@@ -2,7 +2,7 @@
 
 <div class="Logo">
   <img src="logo.png" alt="ShitHosting logo" width="350" height="200" />
-  <p>Beware of the leopard</p>
+  <p>ShitHosting - Your No Nonsense Webhost</p>
 </div>
 <br/>
 
